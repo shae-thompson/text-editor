@@ -18,7 +18,7 @@ export default class {
       lineNumbers: true,
       lineWrapping: true,
       autofocus: true,
-      indentUnit: 2,
+      indentUnit: 2, 
       tabSize: 2,
     });
 
